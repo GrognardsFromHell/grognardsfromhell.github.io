@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+              Version="1.0.0.0"
+              Uri="https://templeplus.org/opentemple/nightlies/master/opentemple.appinstaller">
+
+    <MainBundle Name="2282dc6c-1ce2-4b50-829f-18e9ddc8df01"
+                Publisher="CN=OpenTemple Prereleases"
+                Version="1.0.0.0"
+                Uri="https://github.com/shartte/OpenTemple.Nightly/releases/download/v1/OpenTemple.msixbundle"/>
+
+    <UpdateSettings>
+        <OnLaunch HoursBetweenUpdateChecks="0"/>
+    </UpdateSettings>
+
+</AppInstaller>
